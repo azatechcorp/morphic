@@ -124,16 +124,16 @@
       "providerId": "ollama",
       "enabled": true,
       "toolCallType": "manual",
-      "toolCallModel": "phi4"
+      "toolCallModel": "phi4-mini"
     },
     {
-      "id": "<OLLAMA_MODEL_ID>",
-      "name": "<OLLAMA_MODEL_NAME>",
+      "id": "heatxsink/cline-tools.deepseek-r1:14b",
+      "name": "heatxsink/cline-tools.deepseek-r1:14b",
       "provider": "Ollama",
       "providerId": "ollama",
       "enabled": true,
       "toolCallType": "manual",
-      "toolCallModel": "<OLLAMA_MODEL_ID>"
+      "toolCallModel": "heatxsink/cline-tools.deepseek-r1:14b"
     },
     {
       "id": "grok-2-1212",
